@@ -1,21 +1,13 @@
-# Missão: Inteligência Artificial - Classificação de Flores
+# Missão: Inteligência Artificial
 
-## Objetivo:
-A missão consiste em criar um modelo de Machine Learning para classificar flores com base no conjunto de dados Iris. O objetivo é utilizar um modelo de classificação simples para prever a espécie da flor com base em suas características (comprimento e largura das pétalas e sépalas).
+Este projeto foi criado como parte de uma missão para explorar o impacto da Inteligência Artificial (IA) em diferentes setores e como ela pode ser utilizada para resolver problemas complexos.
 
-## Estrutura do Projeto:
-- `main.py`: Código que treina e avalia o modelo.
-- `requirements.txt`: Arquivo com as dependências necessárias.
-  
-## Passos para a execução:
+## Objetivo
 
-1. Clone o repositório:
+O objetivo principal é divulgar o potencial da IA em áreas como saúde, educação, transporte, e muito mais. A missão aborda as tecnologias-chave, como Machine Learning, redes neurais, e Processamento de Linguagem Natural.
 
-2. Instale as dependências:
+## Como usar
 
-3. Execute o código para treinar e testar o modelo:
-
-### Dependências:
-- `scikit-learn`
-- `pandas`
-- `matplotlib`
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/ia-missao.git
