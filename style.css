@@ -110,3 +110,9 @@ footer .container {
 footer p {
     font-size: 1rem;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* Azul claro */
+    color: #333;
+    line-height: 1.6;
+}
